@@ -1,0 +1,6 @@
+opel astra 2004 160000
+toyota yaris 2008 120000
+fiat punto 2004 180000
+subaru impreza 2016 50000
+opel corsa 2005 180000
+

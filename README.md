@@ -1,0 +1,1 @@
+Baza danych zawierająca katalog samochodów osobowych i ich podstawowych danych technicznych. Baza posiada opcję wyszukiwania modeli na pod względem wybranego kryterium
